@@ -1,4 +1,4 @@
-gAme = int(raw_input('Enter A numBer: '))
+GAME = int(raw_input('ENTER a number: '))
 def x():
     if game % 2 == 0:
         print 'You entered an even number'
